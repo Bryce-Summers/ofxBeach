@@ -1,6 +1,10 @@
 # ofxBeach
 A project exploring heightfield based water and sand simulation
 
+Warning:
+=========
+This project is not done.
+
 Requires
 ========
 
